@@ -7,7 +7,7 @@ first install python3 and pip3 in your local machine.
 
 run `pip3 install -r requirements.txt` to install all needing packages.
 
-run `python3 [name_of_file] [name_of_export_file] [number_of_color]` 
+run `python3 imgcompress.py [name_of_file] [name_of_export_file] [number_of_color]` 
 
 for example : `python3 imgcompress.py a.jpg b.jpg 16`
 
